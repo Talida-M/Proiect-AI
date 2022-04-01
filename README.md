@@ -6,6 +6,8 @@ The training data is composed of 8,000 image files. The validation set is compos
 
 File Descriptions
 train.txt - the training metadata file containing the training image file names and the corresponding labels (one example per row)
+
 validation.txt - the validation metadata file containing the validation image file names and the corresponding labels (one example per row)
+
 test.txt - the test metadata file containing only the test image file names (one sample per row without label)
 sample_submission.txt - a sample submission file in the correct format
