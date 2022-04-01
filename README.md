@@ -5,6 +5,7 @@ Participants have to train a model for deep hallucination classification. This i
 The training data is composed of 8,000 image files. The validation set is composed of 1,173 image files. The test is composed of 2,819 image files.
 
 File Descriptions
+
 train.txt - the training metadata file containing the training image file names and the corresponding labels (one example per row)
 
 validation.txt - the validation metadata file containing the validation image file names and the corresponding labels (one example per row)
